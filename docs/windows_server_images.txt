@@ -1,0 +1,653 @@
+[
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2:4.5.5159",
+    "version": "4.5.5159"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2:4.5.5161",
+    "version": "4.5.5161"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2:4.5.5168",
+    "version": "4.5.5168"
+  },
+  {
+    "offer": "Windows-HUB",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "Windows-10-HUB",
+    "urn": "MicrosoftWindowsServer:Windows-HUB:Windows-10-HUB:10.127.20170712",
+    "version": "10.127.20170712"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CN",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CN:4.5.5159",
+    "version": "4.5.5159"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CN",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CN:4.5.5161",
+    "version": "4.5.5161"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CN",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CN:4.5.5168",
+    "version": "4.5.5168"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServerRemoteDesktop",
+    "sku": "RDSH-Office365P",
+    "urn": "MicrosoftWindowsServerRemoteDesktop:WindowsServer:RDSH-Office365P:4.0.20170505",
+    "version": "4.0.20170505"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServerRemoteDesktop",
+    "sku": "RDSH-Office365P",
+    "urn": "MicrosoftWindowsServerRemoteDesktop:WindowsServer:RDSH-Office365P:4.0.20170512",
+    "version": "4.0.20170512"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServerRemoteDesktop",
+    "sku": "RDSH-Office365P",
+    "urn": "MicrosoftWindowsServerRemoteDesktop:WindowsServer:RDSH-Office365P:4.0.20170626",
+    "version": "4.0.20170626"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServerRemoteDesktop",
+    "sku": "RDSH-Office365P",
+    "urn": "MicrosoftWindowsServerRemoteDesktop:WindowsServer:RDSH-Office365P:4.0.20170714",
+    "version": "4.0.20170714"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CNExcel",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CNExcel:4.5.5159",
+    "version": "4.5.5159"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CNExcel",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CNExcel:4.5.5161",
+    "version": "4.5.5161"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CNExcel",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CNExcel:4.5.5168",
+    "version": "4.5.5168"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServerRemoteDesktop",
+    "sku": "Remote-Desktop-Session-Host",
+    "urn": "MicrosoftWindowsServerRemoteDesktop:WindowsServer:Remote-Desktop-Session-Host:4.0.20170505",
+    "version": "4.0.20170505"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServerRemoteDesktop",
+    "sku": "Remote-Desktop-Session-Host",
+    "urn": "MicrosoftWindowsServerRemoteDesktop:WindowsServer:Remote-Desktop-Session-Host:4.0.20170512",
+    "version": "4.0.20170512"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServerRemoteDesktop",
+    "sku": "Remote-Desktop-Session-Host",
+    "urn": "MicrosoftWindowsServerRemoteDesktop:WindowsServer:Remote-Desktop-Session-Host:4.0.20170626",
+    "version": "4.0.20170626"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServerRemoteDesktop",
+    "sku": "Remote-Desktop-Session-Host",
+    "urn": "MicrosoftWindowsServerRemoteDesktop:WindowsServer:Remote-Desktop-Session-Host:4.0.20170714",
+    "version": "4.0.20170714"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20170406",
+    "version": "2.127.20170406"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20170420",
+    "version": "2.127.20170420"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20170510",
+    "version": "2.127.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20170628",
+    "version": "2.127.20170628"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20170712",
+    "version": "2.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20170811",
+    "version": "2.127.20170811"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016CN-WS2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016CN-WS2012R2:5.0.5827",
+    "version": "5.0.5827"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1-smalldisk:2.0.20170416",
+    "version": "2.0.20170416"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1-smalldisk:2.0.20170510",
+    "version": "2.0.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1-smalldisk:2.127.20170712",
+    "version": "2.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1-smalldisk:2.127.20170811",
+    "version": "2.127.20170811"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016CN-WS2016",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016CN-WS2016:5.0.5827",
+    "version": "5.0.5827"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170406",
+    "version": "3.127.20170406"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170420",
+    "version": "3.127.20170420"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170510",
+    "version": "3.127.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170628",
+    "version": "3.127.20170628"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170712",
+    "version": "3.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170811",
+    "version": "3.127.20170811"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170918",
+    "version": "3.127.20170918"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016HN-WS2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016HN-WS2012R2:5.0.5827",
+    "version": "5.0.5827"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.0.20170415",
+    "version": "3.0.20170415"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.0.20170510",
+    "version": "3.0.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.127.20170619",
+    "version": "3.127.20170619"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.127.20170712",
+    "version": "3.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.127.20170811",
+    "version": "3.127.20170811"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.127.20170918",
+    "version": "3.127.20170918"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016HN-WS2016",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016HN-WS2016:5.0.5827",
+    "version": "5.0.5827"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20170406",
+    "version": "4.127.20170406"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20170420",
+    "version": "4.127.20170420"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20170510",
+    "version": "4.127.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20170712",
+    "version": "4.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20170822",
+    "version": "4.127.20170822"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.0.20170415",
+    "version": "4.0.20170415"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.0.20170510",
+    "version": "4.0.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.127.20170630",
+    "version": "4.127.20170630"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.127.20170712",
+    "version": "4.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.127.20170822",
+    "version": "4.127.20170822"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20170406",
+    "version": "2016.127.20170406"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20170421",
+    "version": "2016.127.20170421"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20170510",
+    "version": "2016.127.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20170630",
+    "version": "2016.127.20170630"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20170712",
+    "version": "2016.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20170822",
+    "version": "2016.127.20170822"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20170406",
+    "version": "2016.127.20170406"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20170411",
+    "version": "2016.127.20170411"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20170510",
+    "version": "2016.127.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20170630",
+    "version": "2016.127.20170630"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20170712",
+    "version": "2016.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20170822",
+    "version": "2016.127.20170822"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core-smalldisk:2016.0.20170412",
+    "version": "2016.0.20170412"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core-smalldisk:2016.0.20170510",
+    "version": "2016.0.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core-smalldisk:2016.127.20170630",
+    "version": "2016.127.20170630"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core-smalldisk:2016.127.20170822",
+    "version": "2016.127.20170822"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.0.20170412",
+    "version": "2016.0.20170412"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.0.20170510",
+    "version": "2016.0.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.127.20170630",
+    "version": "2016.127.20170630"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.127.20170712",
+    "version": "2016.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.127.20170822",
+    "version": "2016.127.20170822"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20170406",
+    "version": "2016.127.20170406"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20170411",
+    "version": "2016.127.20170411"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20170510",
+    "version": "2016.127.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20170619",
+    "version": "2016.127.20170619"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20170712",
+    "version": "2016.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20170811",
+    "version": "2016.127.20170811"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-RDSH",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-RDSH:2016.127.20170629",
+    "version": "2016.127.20170629"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20161012",
+    "version": "2016.0.20161012"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20161109",
+    "version": "2016.0.20161109"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170113",
+    "version": "2016.0.20170113"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170328",
+    "version": "2016.0.20170328"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170418",
+    "version": "2016.0.20170418"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170511",
+    "version": "2016.0.20170511"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170620",
+    "version": "2016.0.20170620"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170720",
+    "version": "2016.0.20170720"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170816",
+    "version": "2016.0.20170816"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170927",
+    "version": "2016.0.20170927"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "maxDataDiskCount": 2,
+    "memoryInMb": 2048,
+    "name": "Standard_B1ms",
+    "numberOfCores": 1,
+    "osDiskSizeInMb": 1047552,
+    "resourceDiskSizeInMb": 4096
+  },
+  {
+    "maxDataDiskCount": 2,
+    "memoryInMb": 1024,
+    "name": "Standard_B1s",
+    "numberOfCores": 1,
+    "osDiskSizeInMb": 1047552,
+    "resourceDiskSizeInMb": 2048
+  },
+  {
+    "maxDataDiskCount": 4,
+    "memoryInMb": 8192,
+    "name": "Standard_B2ms",
+    "numberOfCores": 2,
+    "osDiskSizeInMb": 1047552,
+    "resourceDiskSizeInMb": 16384
+  },
+  {
+    "maxDataDiskCount": 4,
+    "memoryInMb": 4096,
+    "name": "Standard_B2s",
+    "numberOfCores": 2,
+    "osDiskSizeInMb": 1047552,
+    "resourceDiskSizeInMb": 8192
+  },
+  {
+    "maxDataDiskCount": 8,
+    "memoryInMb": 16384,
+    "name": "Standard_B4ms",
+    "numberOfCores": 4,
+    "osDiskSizeInMb": 1047552,
+    "resourceDiskSizeInMb": 32768
+  },
+  {
+    "maxDataDiskCount": 16,
+    "memoryInMb": 32768,
+    "name": "Standard_B8ms",
+    "numberOfCores": 8,
+    "osDiskSizeInMb": 1047552,
+    "resourceDiskSizeInMb": 65536
+  }
+]
