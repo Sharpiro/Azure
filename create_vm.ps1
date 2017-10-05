@@ -4,8 +4,8 @@ $vmResourceGroupName = "azTestGroup"
 # $vmName = "AppServer1"
 $vmName = "testvm1"
 $vmSizes = (
-    @{Id = 1; Name = "Standard_B1s"; Price = 4.46; Cpus = 1; RAM = 2},
-    @{Id = 2; Name = "Standard_B1ms"; Price = 8.93; Cpus = 1; RAM = 4},
+    @{Id = 1; Name = "Standard_B1s"; Price = 4.46; Cpus = 1; RAM = 1},
+    @{Id = 2; Name = "Standard_B1ms"; Price = 8.93; Cpus = 1; RAM = 2},
     @{Id = 3; Name = "Standard_B2s"; Price = 17.86; Cpus = 2; RAM = 4},
     @{Id = 4; Name = "Standard_B2ms"; Price = 34.97; Cpus = 2; RAM = 8},
     @{Id = 5; Name = "Standard_B4ms"; Price = 69.94; Cpus = 4; RAM = 16},
